@@ -3,11 +3,11 @@ import math
 
 def area(r):
     '''
-    Calculating circle's square function.
+    Calculating circle's area function.
         ARGUMENTS:
             * r (int) - circle's radius
         RETURNS:
-            * result square
+            * result area
     '''
     return math.pi * r * r
 

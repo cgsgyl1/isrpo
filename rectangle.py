@@ -1,12 +1,12 @@
 
 def area(a, b):
     '''
-    Calculating rectangle's square function.
+    Calculating rectangle's area function.
         ARGUMENTS:
             * a (int) - rectangle's height
             * b (int) - rectangle's width
         RETURNS:
-            * result square
+            * result area
     '''
     return a * b
 

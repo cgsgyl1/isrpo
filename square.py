@@ -1,20 +1,20 @@
 
 def area(a):
     '''
-    Calculating area's square function.
+    Calculating square's area function.
         ARGUMENTS:
-            * a (int) - area's lenght
+            * a (int) - square's lenght
         RETURNS:
-            * result square
+            * result area
     '''
     return a * a
 
 
 def perimeter(a):
     '''
-    Calculating area's perimeter function.
+    Calculating square's perimeter function.
         ARGUMENTS:
-            * a (int) - area's lenght
+            * a (int) - square's lenght
         RETURNS:
             * result perimeter
     '''
