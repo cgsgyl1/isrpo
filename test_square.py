@@ -1,8 +1,3 @@
-
-Яна Левина <ya2006lev@gmail.com>
-14:06 (1 час назад)
-кому: мне
-
 import unittest
 import square
 
